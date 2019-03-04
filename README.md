@@ -1,6 +1,6 @@
 # Tech Crunch Project
 
-This is a mock website created to showcase my ability to recreate the Level Ground website from scratch.
+This is a mock website created to showcase my ability to recreate the Tech Crunch website from scratch.
 
 ### Link to project: https://sam-casseus-dev3.netlify.com/
 
